@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ApplicationSettings>
+  <IntegrateWithOtherApplication>
+    <Password>Y*o92g$xJPO~</Password>
+  </IntegrateWithOtherApplication>
+  <StartPage>리스트뷰 Home</StartPage>
+  <UserServicePort>20396</UserServicePort>
+  <WebSitePort>48373</WebSitePort>
+</ApplicationSettings>

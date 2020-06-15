@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CustomLibraries>
+  <UserCSSFileList>
+    <Item class="Forguncy.Model.UserJSOrCssFile" assembly="Forguncy">
+      <Name>StyleSheet.css</Name>
+    </Item>
+  </UserCSSFileList>
+</CustomLibraries>
