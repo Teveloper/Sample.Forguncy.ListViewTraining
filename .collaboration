@@ -101,16 +101,7 @@
   },
   {
     "ModuleName": "Command",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "JAKEPARK-KOREA\\JakeComAdmin",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2020-06-15T15:03:08.3369609+09:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\응용_Extension\\Command.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "JavaScriptAPI",
